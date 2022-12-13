@@ -1,0 +1,6 @@
+[book]
+authors = ["FanelliMarco"]
+language = "it"
+multilingual = false
+src = "src"
+title = "Il linguaggio di programmazione Rust"
