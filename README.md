@@ -80,7 +80,7 @@ Ci piacerebbe aiuto con la traduzione del libro! Vedi etichetta [Traduzioni] per
 issue per iniziare a lavorare su una nuova lingua! Stiamo aspettando il supporto [mdbook] per più lingue prima di unirli, ma sentiti libero di iniziare!
 
 [Translations]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3ATranslations
-[mdbook support]: https://github.com/rust-lang-nursery/mdBook/issues/5]
+[mdbook support]: https://github.com/rust-lang-nursery/mdBook/issues/5
 
 ## Controllo ortografico
 
