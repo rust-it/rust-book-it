@@ -2,10 +2,10 @@
 
 Il primo passo è installare Rust. Scaricheremo Rust tramite `rustup`, uno strumento da linea di comando per gestire le versioni di Rust e gli strumenti associati. Avrai bisogno di una connessione a internet per il download.
 
-> Nota: Se per qualche motivo preferisci non usare `rustup` per qualche motivo, consulta la pagina
+> Nota: Se per qualche motivo preferisci non usare `rustup`, consulta la pagina
 > [Altri Medoti di Installazione Rust][otherinstall] per altre opzioni.
 
-I passi seguenti installano l'ultima versione stabile del compilatore Rust. Le stabilità di Rust garantisce che tutti gli esempi del libro che compilano continueranno a compilare con nuove versioni di Rust. L'output potrebbe differire leggermente tra le versioni perché Rust spesso migliora i messaggi di errore e gli avvisi. In altre parole, qualsiasi versione più recente e stabile di Rust che installi usando questi passi dovrebbe funzionare come previsto con il contenuto di questo libro.
+I passi seguenti installano l'ultima versione stabile del compilatore Rust. La stabilità di Rust garantisce che tutti gli esempi del libro che compilano correttamente continueranno a compilare con nuove versioni di Rust. L'output potrebbe differire leggermente tra le versioni perché Rust spesso migliora i messaggi di errore e gli avvisi. In altre parole, qualsiasi versione più recente e stabile di Rust che installi usando questi passi dovrebbe funzionare come previsto con il contenuto di questo libro.
 
 > ### Notazione da linea di comando `$`
 >
@@ -86,7 +86,7 @@ In Linux e macOS, usa:
 $ echo $PATH
 ```
 
-Se tutto è corretto e Rust ancora non funziona, ci sono una serie di posti dove puoi ottenere aiuto. Scopri come entrare in contatto con gli altri Rustacei (un nomignolo sciocco che ci chiamiamo) sulla [pagina della community][community].
+Se tutto è corretto e Rust ancora non funziona, ci sono una serie di posti dove puoi ottenere aiuto. Scopri come entrare in contatto con gli altri Rustacei (un nomignolo sciocco con cui veniamo chiamati) sulla [pagina della community][community].
 
 ### Aggiornamento e Disinstallazione
 
