@@ -24,7 +24,7 @@ Consultando le [releases], puoi scaricare i codici sorgente che trovi presenti n
 ## Requisiti
 
 Per costruire il libro è necessario [mdBook], idealmente la stessa 
-versione utilizzata da rust-lang/rust in [questo file][rust-mdbook]. Per ottenerlo:
+versione utilizzata da `rust-lang/rust` in [questo file][rust-mdbook]. Per ottenerlo:
 
 [mdBook]: https://github.com/rust-lang-nursery/mdBook
 [rust-mdbook]: https://github.com/rust-lang/rust/blob/master/src/tools/rustbook/Cargo.toml
@@ -67,7 +67,7 @@ $ mdbook test
 
 ## Contribuzione
 
-Ci piacerebbe avere il tuo aiuto! Consulta [CONTRIBUTING.md][contrib] 
+Ci piacerebbe avere il tuo aiuto! Consulta [CONTRIBUTING.md](CONTRIBUTING.md) 
 per scoprire i tipi di contributi che stiamo cercando.
 
 Poiché il libro viene [stampato](https://nostarch.com/rust), e poiché vogliamo mantenere la versione online del libro il più possibile vicina alla versione stampata, potrebbe essere necessario più tempo del solito per affrontare il tuo problema o richiesta di pull.
@@ -76,7 +76,7 @@ Finora abbiamo effettuato una revisione più ampia per coincidere con [Rust Edit
 
 ### Traduzioni
 
-Ci piacerebbe aiuto con la traduzione del libro! Vedi etichetta [Traduzioni] per unirti agli sforzi attualmente in corso. Apri una nuova 
+Ci piacerebbe aiuto con la traduzione del libro! Vedi etichetta [Translations] per unirti agli sforzi attualmente in corso. Apri una nuova 
 issue per iniziare a lavorare su una nuova lingua! Stiamo aspettando il supporto [mdbook] per più lingue prima di unirli, ma sentiti libero di iniziare!
 
 [Translations]: https://github.com/rust-lang/book/issues?q=is%3Aopen+is%3Aissue+label%3ATranslations

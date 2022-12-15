@@ -14,7 +14,7 @@ Il libro segue il ciclo di rilascio di Rust. Pertanto, se si riscontra un proble
 
 Anche l'esame della cronologia di un file specifico può fornire ulteriori informazioni su come o se un problema sia stato risolto o meno.
 
-Si prega inoltre di cercare tra le issue e i PR aperti e chiusi prima di segnalare un nuovo problema o aprire un nuovo PR.
+Si prega inoltre di cercare tra le issue e i PR aperti e chiusi prima di segnalare un nuovo problema o aprire un nuovo PR (Richiesta di Pull).
 
 ## Licenze
 
