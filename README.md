@@ -1,4 +1,4 @@
-# Il linguaggio di programmazione Rust
+# Il Linguaggio di Programmazione Rust
 
 ![Build Status](https://github.com/rust-lang/book/workflows/CI/badge.svg)
 
