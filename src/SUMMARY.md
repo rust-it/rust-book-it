@@ -111,7 +111,7 @@
 - [Pattern e Corrispondeze](ch18-00-patterns.md)
     - [Tutte le situazioni in cui i pattern possono essere utilizzati](ch18-01-situazioni-pattern.md)
     - [Rifiutabilità: quando un pattern potrebbe non corrispondere](ch18-02-refutability.md)
-    - [Sintassi Pattern](ch18-03-pattern-syntax.md)
+    - [Sintassi Pattern](ch18-03-sintassi-pattern.md)
 
 - [Funzionalità Avanzate](ch19-00-funzionalità-avanzate.md)
     - [Rust Pericoloso](ch19-01-rust-pericoloso.md)
