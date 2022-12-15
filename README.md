@@ -2,7 +2,7 @@
 
 ![Build Status](https://github.com/rust-lang/book/workflows/CI/badge.svg)
 
-Questa repository contiene il libro intitolato "The Rust Programming Language" in versione italiana.
+Questa repository contiene il libro intitolato "Il Linguaggio di Programmazione Rust".
 
 [Il libro é disponibile in forma cartacea da No Starch Press][nostarch]
 

@@ -1,6 +1,7 @@
 [book]
-authors = ["FanelliMarco"]
+title = "Il Linguaggio di Programmazione Rust"
+authors = ["Steve Klabnik","Carol Nichols"]
 language = "it"
 multilingual = false
 src = "src"
-title = "Il linguaggio di programmazione Rust"
+
