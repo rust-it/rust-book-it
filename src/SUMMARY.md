@@ -1,6 +1,6 @@
 # Il linguaggio di programmazione Rust
 
-[Il linguaggio di programmazione Rust](titolo-pagina.md)
+[Il Linguaggio di Programmazione Rust](titolo-pagina.md)
 [Prologo](prologo.md)
 [Introduzione](cap00-00-introduzione.md)
 
