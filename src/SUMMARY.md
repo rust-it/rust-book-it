@@ -1,7 +1,7 @@
 # Il linguaggio di programmazione Rust
 
 [Il linguaggio di programmazione Rust](titolo-pagina.md)
-[Prologo](Prologo.md)
+[Prologo](prologo.md)
 [Introduzione](cap00-00-introduzione.md)
 
 ## Iniziamo
@@ -40,7 +40,7 @@
 - [Gestione Grandi Progetti con Packages, Crates, e Moduli](ch07-00-gestione-progetti.md)
     - [Packages e Crates](ch07-01-packages-e-crates.md)
     - [Definire i moduli per controllare l'ambito e la privacy](ch07-02-definizione-moduli.md)
-    - [Utilizzo dei percorsi per fare riferimento agli elementi nell'albero dei moduli}(ch07-03-utilizzo-percorsi-albero-moduli.md)
+    - [Utilizzo dei percorsi per fare riferimento agli elementi nell'albero dei moduli](ch07-03-utilizzo-percorsi-albero-moduli.md)
     - [Portare percorsi nel campo di applicazione con `use`](ch07-04-portare-percorsi-nel-campo-di-applicazione-use.md)
     - [Separare i Moduli in diversi file](ch07-05-separare-i-moduli-in-diversi-file.md)
 

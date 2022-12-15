@@ -1,0 +1,1 @@
+# Tratti: definire comportamenti condivisi

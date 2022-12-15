@@ -1,0 +1,1 @@
+# Scrivere test automatizzati

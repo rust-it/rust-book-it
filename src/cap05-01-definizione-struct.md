@@ -1,0 +1,1 @@
+# Definizione e Istanza struct
