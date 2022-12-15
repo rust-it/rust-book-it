@@ -1,8 +1,8 @@
 # Introduzione
 
 Benvenuti in *Il Linguaggio di Programmazione Rust*, un libro introduttivo su Rust.
-Il linguaggio di programmazione Rust ti aiuta a scrivere software più veloce e affidabile.
-L'ergonomia ad alto livello e il controllo a basso livello spesso sono in contrasto nella progettazione dei linguaggi di programmazione; Rust sfida questo conflitto. Attraverso l'equilibrio di una potente capacità tecnica e un'ottima esperienza per gli sviluppatori, Rust ti offre l'opzione di controllare i dettagli a basso livello (come l'utilizzo della memoria) senza tutti i problemi tradizionalmente associati a tale controllo.
+Il linguaggio di Programmazione Rust ti aiuta a scrivere software più veloce e affidabile.
+L'ergonomia ad alto livello e il controllo a basso livello spesso sono in contrasto nella progettazione dei linguaggi di programmazione; Rust sfida questo conflitto. Attraverso l'equilibrio di una potente capacità tecnica e un'ottima esperienza dagli sviluppatori, Rust ti offre l'opzione di controllare i dettagli a basso livello (come l'utilizzo della memoria) senza tutti i problemi tradizionalmente associati a tale controllo.
 
 ## A chi è destinato Rust
 
@@ -14,8 +14,8 @@ Rust si sta dimostrando uno strumento produttivo per la collaborazione tra grand
 
 Inoltre, Rust porta gli strumenti per sviluppatori contemporanei nel mondo della programmazione di sistema:
 
-* Cargo, il gestore delle dipendenze e lo strumento di compilazione inclusi, rende semplice e coerente l'aggiunta, la compilazione e la gestione delle dipendenze all'interno dell'ecosistema Rust.
-* Lo strumento di formattazione Rustfmt garantisce uno stile di codifica coerente tra gli sviluppatori.
+* *Cargo*, il gestore delle dipendenze e lo strumento di compilazione inclusi, rende semplice e coerente l'aggiunta, la compilazione e la gestione delle dipendenze all'interno dell'ecosistema Rust.
+* Lo strumento di formattazione *Rustfmt* garantisce uno stile di codifica coerente tra gli sviluppatori.
 * Il Rust Language Server alimenta l'integrazione di Integrated Development Environment (IDE) per il completamento del codice e i messaggi di errore in linea.
 
 Utilizzando questi e altri strumenti nell'ecosistema Rust, gli sviluppatori possono essere produttivi mentre scrivono codice a livello di sistema.
@@ -30,7 +30,7 @@ Centinaia di aziende, grandi e piccole, usano Rust in produzione per una variet�
 
 ### Sviluppatori open source
 
-Rust è per le persone che vogliono costruire il linguaggio di programmazione Rust, la comunità, gli strumenti per sviluppatori e le librerie. Saremmo felici di averti come contributore del linguaggio Rust.
+Rust è per le persone che vogliono contribuire alla costruzione del linguaggio stesso, la comunità, gli strumenti per sviluppatori e le librerie. Saremmo felici di averti come contributore del linguaggio Rust.
 
 ### Persone che valorizzano velocità e stabilità
 
@@ -81,5 +81,3 @@ Un importante parte del processo di apprendimento di Rust è imparare a leggere 
 Nella maggior parte delle situazioni, ti guideremo verso la versione corretta di qualsiasi codice che non compili.
 
 I file sorgenti da cui è stato generato questo libro si possono trovare su [GitHub][book].
-
-[book]: https://github.com/rust-lang/book/tree/main/src
